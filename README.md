@@ -6,19 +6,19 @@ The purpose of this analysis is to create a webpage with a dynamic table that al
 
 ## Results
 
-![Header]()!
+![Header](https://github.com/nkinsler/UFOs/blob/main/static/images/Truth.png)!
 
-![Starting]()!
+![Starting](https://github.com/nkinsler/UFOs/blob/main/static/images/Start.png)!
 
-![Date]()!
+![Date](https://github.com/nkinsler/UFOs/blob/main/static/images/Date.png)!
 
-![City]()!
+![City](https://github.com/nkinsler/UFOs/blob/main/static/images/City.png)!
 
-![State]()!
+![State](https://github.com/nkinsler/UFOs/blob/main/static/images/State.png)!
 
-![Country]()!
+![Country](https://github.com/nkinsler/UFOs/blob/main/static/images/Country.png)!
 
-![Shape]()!
+![Shape](https://github.com/nkinsler/UFOs/blob/main/static/images/Shape.png)!
 
 ## Summary
 
