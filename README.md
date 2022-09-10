@@ -36,7 +36,7 @@ To filter by city, the user would enter the shape in all lowercase.
 
 The user could even enter multiple filters to narrow their search even further.
 
-!Multiple](https://github.com/nkinsler/UFOs/blob/main/static/images/Multiple.png)!
+![Multiple](https://github.com/nkinsler/UFOs/blob/main/static/images/Multiple.png)!
 
 ## Summary
 
