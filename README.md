@@ -7,6 +7,7 @@ The purpose of this analysis is to create a webpage with a dynamic table that al
 ## Results
 
 [UFO Sightings](https://github.com/nkinsler/UFOs/blob/main/index.html)
+
 [App](https://github.com/nkinsler/UFOs/blob/main/static/js/app.js)
 
 Header page is setup as discussed in the Module.
